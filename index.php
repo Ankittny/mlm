@@ -126,6 +126,7 @@ input::placeholder {
   white-space: nowrap;
   padding: 8px 20px;
   transition: all 0.3s ease;
+  text-decoration:none;
 }
 .input-box a:hover {
   background-color: #fff;

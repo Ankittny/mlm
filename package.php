@@ -2,7 +2,7 @@
 <html lang="en" data-bs-theme="light">
 
 <head>
-  <title>test</title>
+  <title>Package</title>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -135,7 +135,7 @@
 
                   <!-- pricing bottom part -->
                   <div class="pricing__item-bottom">
-                    <a href="signup.html" class="trk-btn trk-btn--outline">Choose Plan</a>
+                    <a href="signup.php?id=1" class="trk-btn trk-btn--outline">Choose Plan</a>
                   </div>
                 </div>
               </div>
@@ -168,7 +168,7 @@
 
                   <!-- pricing bottom part -->
                   <div class="pricing__item-bottom">
-                    <a href="signup.html" class="trk-btn trk-btn--outline">Choose Plan</a>
+                    <a href="signup.php?id=2" class="trk-btn trk-btn--outline">Choose Plan</a>
                   </div>
                 </div>
               </div>
@@ -202,7 +202,7 @@
 
                   <!-- pricing bottom part -->
                   <div class="pricing__item-bottom">
-                    <a href="signup.html" class="trk-btn trk-btn--outline">Choose Plan</a>
+                    <a href="signup.php?id=3" class="trk-btn trk-btn--outline">Choose Plan</a>
                   </div>
                 </div>
               </div>
@@ -235,7 +235,7 @@
 
                   <!-- pricing bottom part -->
                   <div class="pricing__item-bottom">
-                    <a href="signup.html" class="trk-btn trk-btn--outline">Choose Plan</a>
+                    <a href="signup.php?id=4" class="trk-btn trk-btn--outline">Choose Plan</a>
                   </div>
                 </div>
               </div>
@@ -268,7 +268,7 @@
 
                   <!-- pricing bottom part -->
                   <div class="pricing__item-bottom">
-                    <a href="signup.html" class="trk-btn trk-btn--outline">Choose Plan</a>
+                    <a href="signup.php?id=5" class="trk-btn trk-btn--outline">Choose Plan</a>
                   </div>
                 </div>
               </div>
@@ -301,7 +301,7 @@
 
                   <!-- pricing bottom part -->
                   <div class="pricing__item-bottom">
-                    <a href="signup.html" class="trk-btn trk-btn--outline">Choose Plan</a>
+                    <a href="signup.php?id=6" class="trk-btn trk-btn--outline">Choose Plan</a>
                   </div>
                 </div>
               </div>
@@ -348,7 +348,4 @@
 
 
 </body>
-
-
-<!-- Mirrored from thetork.com/demos/html/bitrader/index1-light.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 01 Oct 2023 06:25:34 GMT -->
 </html>
